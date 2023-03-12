@@ -1,0 +1,12 @@
+﻿[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 31.996994, 36.549362 ]
+    },
+    "properties": {
+      "name": "Alanya"
+    }
+  }
+]
